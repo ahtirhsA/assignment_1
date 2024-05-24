@@ -1,0 +1,57 @@
+.nav {
+  background-color: black;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.ull {
+  width: 100%;
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+}
+
+.nli {
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: 600;
+  margin-right: 23px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.lgo {
+  width: 8%;
+}
+
+.lgOut {
+  background-color: transparent;
+  border-width: 2px;
+  border-style: solid;
+  border-color: #ffffff;
+  font-size: 23px;
+  color: #ffffff;
+  border-radius: 8px;
+  font-weight: 600;
+  padding: 20px;
+  align-self: center;
+}
+
+.align {
+  display: flex;
+  flex-direction: row;
+}
+
+.dnli {
+  color:yellow;
+  font-size: 25px;
+  font-weight: 600;
+  margin-right: 23px;
+}
